@@ -4,11 +4,11 @@ Nesta atividade, você dará os primeiros passos com JavaScript, explorando na p
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
+- Nome: Thiago Ribeiro Lopes
+- Matrícula: 916468
 
 ## Print do console do navegador
-
+![Console](console.png)
 
 
 
